@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Akshada Sonawane! 👋
 
-<!--
-**akshadasonawane2576-glitch/akshadasonawane2576-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Computer Science Graduate
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst | Data Science Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I am passionate about Data Analytics and Data Science. I enjoy working with data to discover insights and solve real-world business problems.
+
+### Technical Skills
+- Python
+- SQL
+- Microsoft Excel
+- Power BI
+- Tableau
+- Machine Learning (Learning)
+
+### Projects
+- 🚀 SmartStock AI – AI-powered Inventory Analytics Platform
+
+### Currently Learning
+- Data Analytics
+- Data Science
+- Python Automation
+- Machine Learning
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/akshada-sonawane-b74b85385
